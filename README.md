@@ -1,1 +1,1 @@
-# make-example 1
+# make-example
